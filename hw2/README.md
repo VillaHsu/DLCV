@@ -1,4 +1,5 @@
-Put your model in the directory "checkpoints"!!!!!!
+Put your model in the directory "checkpoints"!!!!!! (you need to create one if it is not existed) 
+- ./checkpoints/baseline_15725
 
 
 
