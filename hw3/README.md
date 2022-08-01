@@ -1,6 +1,5 @@
-
-
-
+Put the model inside the directory "saves"!!!!
+- ./saves/save_models
 
 
 # HW3 ― GAN, ACGAN and UDA
